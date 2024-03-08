@@ -5,6 +5,7 @@ PCB breakout Gerbers for the front 2 memory card slots.
 When ordering Select 1.6mm pcb thickness with ENIG surface finish, I've ordered HASL cause its cheaper for 1 off tests.
 
 EXTIN and EXTOUT are connected on the PCB via a jumper trace telling the gamecube a device is inserted in the slot.
+2.54mm 10 pin header either 90 angle or straight however you like for easier jumper wire connections.
 
 TODO: 
 - 3D Printed STL Case for the PCB.
