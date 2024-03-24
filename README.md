@@ -8,6 +8,8 @@ EXTIN and EXTOUT are connected on the PCB via a jumper trace telling the gamecub
 
 2.54mm 10 pin header either 90 angle or straight however you like for easier jumper wire connections.
 
+Case remixed from https://www.thingiverse.com/thing:4866325
+
 TODO: 
 - ~~3D Printed STL Case for the PCB.~~
 - ~~Waiting on PCB's for test fit and accuracy.~~
